@@ -1,0 +1,8 @@
+{
+    "name" : "Acme::FatLetters",
+    "version" : "0.0.1",
+    "description" : "Turn ASCII strings into wide-letters.",
+    "author" : "Timo Paulssen",
+    "depends" : [ ],
+    "source-url" : "git://github.com/timo/perl6-Acme-FatLetters.git"
+}
